@@ -1,3 +1,7 @@
+# 1.3.1
+
+* modified for ClusterApp use. Many files removed to clean up tree.
+
 # 1.3.0
 
 Forked.
