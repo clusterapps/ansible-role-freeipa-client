@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: freeipa-client
   author: Michaael Cleary
   description: A role to join clients to an IPA domain
   license: AGPLv3
