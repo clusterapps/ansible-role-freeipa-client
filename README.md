@@ -21,10 +21,9 @@ This role allows to join clients to an ipa domain.
 
 ## Requirements
 
-* CentOS 7
-* Fedora 24+
-* Ubuntu Trusty
-* Ubuntu Xenial
+* CentOS 7+
+* Fedora 29+
+
 
 ## Role Variables
 
