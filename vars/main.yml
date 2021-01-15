@@ -3,6 +3,8 @@
 freeipaclient_supported_distributions:
   - CentOS-7
   - CentOS-8
+  - OracleLinux-7
+  - OracleLinux-8
   - Fedora-29
   - Fedora-30
   - Fedora-31
